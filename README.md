@@ -47,7 +47,7 @@ A aplicação exibe automaticamente o **plano mais vantajoso** com base nos valo
 1. Baixe ou clone este repositório:
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/luquinhas167/repositorio.git
 ```
 
 2. Abra o arquivo:
