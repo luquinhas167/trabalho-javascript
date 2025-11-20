@@ -34,17 +34,6 @@ A aplicação exibe automaticamente o **plano mais vantajoso** com base nos valo
 
 ---
 
-##  Funcionalidades
-
-✔ Cálculo automático do **IMC**
-✔ Determinação do **fator de comorbidade**
-✔ Cálculo dos **3 planos da operadora A**
-✔ Cálculo dos **3 planos da operadora B**
-✔ Geração de uma **tabela comparativa de preços**
-✔ Identificação do **plano mais vantajoso**
-✔ Exibição de **gráfico de barras** com todos os valores
-✔ Design moderno e **totalmente responsivo**
-
 ---
 
 ##  Demonstração
