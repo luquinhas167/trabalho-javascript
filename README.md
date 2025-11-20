@@ -15,10 +15,10 @@ A aplicação exibe automaticamente o **plano mais vantajoso** com base nos valo
 
 ##  Tecnologias Utilizadas
 
-* **HTML5**
-* **CSS3** (responsivo e moderno)
-* **JavaScript** (lógica completa do cálculo)
-* **Chart.js** (para gerar o gráfico comparativo)
+* **HTML5
+* **CSS3
+* **JavaScript 
+* **Chart.js
 
 ---
 
